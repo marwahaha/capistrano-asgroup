@@ -3,7 +3,7 @@ $:.push File.expand_path('../lib', __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = 'capistrano-asgroup'
-  s.version     = '0.4'
+  s.version     = '0.4a'
   s.authors     = ['Piotr Jasiulewicz']
   s.date        = '2016-01-17'
   s.homepage    = 'https://github.com/teu/capistrano-asgroup'
