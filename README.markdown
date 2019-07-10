@@ -1,7 +1,7 @@
 ## Introduction
 
 Disclaimer:
-This a continuation of Thomas Verbiscer project https://github.com/tverbiscer/capistrano-asgroup which seams to be abandonned.
+This a continuation of Thomas Verbiscer project https://github.com/tverbiscer/capistrano-asgroup which seams to be abandoned.
 
 capistrano-asgroup is a [Capistrano](https://github.com/capistrano/capistrano) plugin designed to simplify the
 task of deploying to infrastructure hosted on [Amazon EC2](http://aws.amazon.com/ec2/). It was
